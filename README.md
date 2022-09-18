@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZamanAnwar
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Linux,Docker and kubernetes
+- 🌱 I’m currently learning Linux,Docker and Kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
